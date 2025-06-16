@@ -12,6 +12,8 @@
 
 ## Introduction
 
+In this lab, we are focused on package managers that are used in linux.
+
 ### Exercise 1/8
 
 ![alt text](image.png)
