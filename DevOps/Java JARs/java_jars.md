@@ -9,7 +9,7 @@
 
 ##  Introduction
 
-Understanding linux services.
+Understanding Java JARS.
 
 ### Exercise 1/5
 ![alt text](image.png)
