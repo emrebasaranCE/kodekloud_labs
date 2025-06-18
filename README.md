@@ -4,14 +4,18 @@ In this repository I will be solving DevOps related labs for better understandin
 
 ## DevOps
 
-- #### [done] Working Your Way Through The CLI
-- #### [done] More Linux Commands
-- #### [done] Services
-- #### [done] DNS
-- #### [done] Package Management
-- #### [done] Java Introduction
-- #### Java JARs
-
+- ####  ✅ Working Your Way Through The CLI
+- ####  ✅ More Linux Commands
+- ####  ✅ Services
+- ####  ✅ DNS
+- ####  ✅ Package Management
+- ####  ✅ Java Introduction
+- ####  ✅ Java JARs 
+- #### Java Build & Packaging
+- #### NodeJS Introduction
+- #### Node JS NPM
+- #### Python Introduction
+- #### Python PIP
 
 
 ## Kubernetes
