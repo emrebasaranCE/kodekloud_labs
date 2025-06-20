@@ -19,8 +19,8 @@ In this repository I will be solving DevOps related labs for better understandin
 
 ## Linux
 
-- #### [IPTABLES](Linux/IPTABLES/iptables.md)
-- #### Working With The Shell
+- #### ✅ [IPTABLES](Linux/IPTABLES/iptables.md)
+- #### [Working With The Shell](Linux/Working%20With%20The%20Shell/working_with_the_shell.md)
 - #### Linux Bash Prompt
 - #### Linux Kernel
 - #### Linux Kernel Modules Boot And Filetypes
