@@ -15,7 +15,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - #### ✅ NodeJS Introduction
 - #### ✅ Node JS NPM
 - #### ✅ Python Introduction
-- #### Python PIP
+- #### ✅ Python PIP
 
 
 ## Kubernetes
