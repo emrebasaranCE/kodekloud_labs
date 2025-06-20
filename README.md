@@ -13,7 +13,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - #### ✅ Java JARs 
 - #### ✅ Java Build & Packaging
 - #### ✅ NodeJS Introduction
-- #### Node JS NPM
+- #### ✅ Node JS NPM
 - #### Python Introduction
 - #### Python PIP
 
