@@ -30,7 +30,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [VI Editor](Linux/VI%20Editor/vi_editor.md)
 - [DNS](Linux/DNS/dns.md)
 - [Network Basics](Linux/Network%20Basics/network_basics.md)
-- Account Management
+- [Account Management](Linux/Account%20Management/account_management.md)
 - Permissions And Ownership
 - SSH And SCP
 - Cronjob
