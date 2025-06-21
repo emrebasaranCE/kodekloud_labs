@@ -29,7 +29,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Working With The Shell II](Linux/Working%20With%20The%20Shell%20II/working_with_the_shell_ii.md)
 - [VI Editor](Linux/VI%20Editor/vi_editor.md)
 - [DNS](Linux/DNS/dns.md)
-- Network Basics
+- [Network Basics](Linux/Network%20Basics/network_basics.md)
 - Account Management
 - Permissions And Ownership
 - SSH And SCP
