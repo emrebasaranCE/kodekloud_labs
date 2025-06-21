@@ -23,7 +23,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Working With The Shell](Linux/Working%20With%20The%20Shell/working_with_the_shell.md)
 - [Linux Bash Prompt](Linux/Linux%20Bash%20Prompt/linux_bash_prompt.md)
 - [Linux Kernel](Linux/Linux%20Kernel/linux_kernel.md)
-- Linux Kernel Modules Boot And Filetypes
+- [Linux Kernel Modules Boot And Filetypes](Linux/Linux%20Kernel%20Modules%20Boot%20And%20Filetypes/linux_kernel_modules_boot_and_filetypes.md)
 - YUM And RPM
 - DPKG And APT
 - Working With The Shell II
