@@ -31,7 +31,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [DNS](Linux/DNS/dns.md)
 - [Network Basics](Linux/Network%20Basics/network_basics.md)
 - [Account Management](Linux/Account%20Management/account_management.md)
-- Permissions And Ownership
+- [Permissions And Ownership](Linux/Permissions%20And%20Ownership/permissions_and_ownership.md)
 - SSH And SCP
 - Cronjob
 - Systemd Services
