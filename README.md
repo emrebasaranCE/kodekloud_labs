@@ -64,6 +64,22 @@ In this repository I will be solving DevOps related labs for better understandin
 
 ## Git 
 
+- Git Install
+- Git Initialize Repository
+- Git Log
+- Git Branches
+- Git Merge Branches
+- Git Remote Repository
+- Git Remote Repository Clone
+- Git Pull Requests
+- Git Fork
+- Git Fetching Pulling
+- Git Merge Conflicts
+- Git Rebasing
+- Git Cherry Picking
+- Git Resetting Reverting
+- Git Stashing
+
 ## Terraform
 
 ## Ansible
