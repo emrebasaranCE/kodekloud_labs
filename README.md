@@ -21,7 +21,7 @@ In this repository I will be solving DevOps related labs for better understandin
 
 - #### ✅ [IPTABLES](Linux/IPTABLES/iptables.md)
 - #### ✅ [Working With The Shell](Linux/Working%20With%20The%20Shell/working_with_the_shell.md)
-- #### Linux Bash Prompt
+- #### ✅ [Linux Bash Prompt](Linux/Linux%20Bash%20Prompt/linux_bash_prompt.md)
 - #### Linux Kernel
 - #### Linux Kernel Modules Boot And Filetypes
 - #### YUM And RPM
