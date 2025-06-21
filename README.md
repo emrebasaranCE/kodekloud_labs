@@ -17,7 +17,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Python Introduction](DevOps/Python%20Introduction/python_introduction.md)
 - [Python PIP](DevOps/Python%20PIP/python_pip.md)
 
-## Linux
+## [Linux](Linux/linux.md)
 
 - [IPTABLES](Linux/IPTABLES/iptables.md)
 - [Working With The Shell](Linux/Working%20With%20The%20Shell/working_with_the_shell.md)
