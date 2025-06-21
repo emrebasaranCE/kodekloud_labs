@@ -26,7 +26,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Linux Kernel Modules Boot And Filetypes](Linux/Linux%20Kernel%20Modules%20Boot%20And%20Filetypes/linux_kernel_modules_boot_and_filetypes.md)
 - [YUM And RPM](Linux/YUM%20And%20RPM/yum_and_rpm.md)
 - [DPKG And APT](Linux/DPKG%20And%20APT/dpkg_and_apt.md)
-- Working With The Shell II
+- [Working With The Shell II](Linux/Working%20With%20The%20Shell%20II/working_with_the_shell_ii.md)
 - VI Editor
 - DNS
 - Network Basics
