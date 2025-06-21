@@ -24,7 +24,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Linux Bash Prompt](Linux/Linux%20Bash%20Prompt/linux_bash_prompt.md)
 - [Linux Kernel](Linux/Linux%20Kernel/linux_kernel.md)
 - [Linux Kernel Modules Boot And Filetypes](Linux/Linux%20Kernel%20Modules%20Boot%20And%20Filetypes/linux_kernel_modules_boot_and_filetypes.md)
-- YUM And RPM
+- [YUM And RPM](Linux/YUM%20And%20RPM/yum_and_rpm.md)
 - DPKG And APT
 - Working With The Shell II
 - VI Editor
