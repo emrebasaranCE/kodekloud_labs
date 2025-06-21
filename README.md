@@ -54,6 +54,14 @@ In this repository I will be solving DevOps related labs for better understandin
 
 ## Kubernetes
 
+- Familiarize Environment
+- Pods
+- Replica Sets
+- Deployments
+- Rolling Updates And Rollbacks
+- Services
+- YAML 
+
 ## Git 
 
 ## Terraform
