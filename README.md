@@ -32,7 +32,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Network Basics](Linux/Network%20Basics/network_basics.md)
 - [Account Management](Linux/Account%20Management/account_management.md)
 - [Permissions And Ownership](Linux/Permissions%20And%20Ownership/permissions_and_ownership.md)
-- SSH And SCP
+- [SSH And SCP](Linux/SSH%20And%20SCP/ssh_and_scp.md)
 - Cronjob
 - Systemd Services
 - Partitions
