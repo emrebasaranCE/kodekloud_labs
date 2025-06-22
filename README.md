@@ -34,7 +34,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Permissions And Ownership](Linux/Permissions%20And%20Ownership/permissions_and_ownership.md)
 - [SSH And SCP](Linux/SSH%20And%20SCP/ssh_and_scp.md)
 - [Cronjob](Linux/Cronjob/cronjob.md)
-- Systemd Services
+- [Systemd Services](Linux/Systemd%20Services/systemd_services.md)
 - Partitions
 - Filesystems
 - LVM
