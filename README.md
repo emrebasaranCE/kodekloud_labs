@@ -82,6 +82,33 @@ In this repository I will be solving DevOps related labs for better understandin
 
 ## Terraform
 
+- Terraform Hcl
+- Terraform Provider
+- Terraform Multiple Provider
+- Terraform Variables
+- Terraform Variables 2
+- Terraform Resource Attributes
+- Terraform Resource Deps
+- Terraform Output Variables
+- Terraform State
+- Terraform Commands
+- Terraform Lifecyclle
+- Terraform Datasources
+- Terraform Count For Each
+- Terraform Version 
+- Terraform Aws Cli Iam
+- Terraform Iam
+- Terraform S3
+- Terraform Dynamodb
+- Terraform Remotestate
+- Terraform State Commands
+- Terraform Provisioners
+- Terraform Taint Debug
+- Terraform Import
+- Terraform Modules
+- Terraform Functions Conditionals
+- Terraform Workspaces
+
 ## Ansible
 
 ## Jenkins
