@@ -37,7 +37,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Systemd Services](Linux/Systemd%20Services/systemd_services.md)
 - [Partitions](Linux/Partitions/partitions.md)
 - [Filesystems](Linux/Filesystems/filesystems.md)
-- LVM
+- [LVM](Linux/LVM/lvm.md)
 - Final Troubleshooting Scenario
 
 ## Docker
