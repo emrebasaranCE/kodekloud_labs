@@ -47,7 +47,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Docker Environment Variables](Docker/Docker%20Environment%20Variables/docker_environment_variables.md)
 - [Docker Images](Docker/Docker%20Images/docker_images.md)
 - [Docker CMD vs Entrypoint](Docker/Docker%20CMD%20vs%20Entrypoint/docker_cmd_vs_entrypoint.md)
-- Docker Compose
+- [Docker Compose](Docker/Docker%20Compose/docker_compose.md)
 - Docker Storage
 - Docker Network
 - Docker Registry
