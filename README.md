@@ -43,7 +43,7 @@ In this repository I will be solving DevOps related labs for better understandin
 ## Docker
 
 - [Docker Basic Commands](Docker/Docker%20Basic%20Commands//docker_basic_commands.md)
-- Docker Run
+- [Docker Run](Docker/Docker%20Run/docker_run.md)
 - Docker Environment Variables
 - Docker Images
 - Docker CMD vs Entrypoint
