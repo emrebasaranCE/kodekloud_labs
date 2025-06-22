@@ -36,7 +36,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Cronjob](Linux/Cronjob/cronjob.md)
 - [Systemd Services](Linux/Systemd%20Services/systemd_services.md)
 - [Partitions](Linux/Partitions/partitions.md)
-- Filesystems
+- [Filesystems](Linux/Filesystems/filesystems.md)
 - LVM
 - Final Troubleshooting Scenario
 
