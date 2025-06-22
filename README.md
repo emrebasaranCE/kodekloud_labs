@@ -2,7 +2,7 @@
 
 In this repository I will be solving DevOps related labs for better understanding of DevOps fundamentals.
 
-## [DevOps](DevOps/devops.md)
+## [[Done] DevOps](DevOps/devops.md)
 
 - [Working Your Way Through The CLI](/DevOps/Dns/dns.md)
 - [More Linux Commands](DevOps/More%20Linux%20Commands/more_linux_commands.md)
@@ -38,7 +38,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Partitions](Linux/Partitions/partitions.md)
 - [Filesystems](Linux/Filesystems/filesystems.md)
 - [LVM](Linux/LVM/lvm.md)
-- Final Troubleshooting Scenario
+- [Final Troubleshooting Scenario](Linux/Final%20Troubleshooting%20Scenario/final_throubleshooting_scenario.md)
 
 ## Docker
 
