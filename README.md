@@ -35,7 +35,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [SSH And SCP](Linux/SSH%20And%20SCP/ssh_and_scp.md)
 - [Cronjob](Linux/Cronjob/cronjob.md)
 - [Systemd Services](Linux/Systemd%20Services/systemd_services.md)
-- Partitions
+- [Partitions](Linux/Partitions/partitions.md)
 - Filesystems
 - LVM
 - Final Troubleshooting Scenario
