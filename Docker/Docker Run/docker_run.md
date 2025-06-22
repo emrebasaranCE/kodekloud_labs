@@ -11,7 +11,7 @@
 
 ##  Introduction
 
-Understanding linux services.
+Understanding Docker.
 
 ### Exercise 1/6
 ![alt text](image.png)
