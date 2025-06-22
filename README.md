@@ -2,7 +2,7 @@
 
 In this repository I will be solving DevOps related labs for better understanding of DevOps fundamentals.
 
-## [[Done] DevOps](DevOps/devops.md)
+## [[DONE] DevOps](DevOps/devops.md)
 
 - [Working Your Way Through The CLI](/DevOps/Dns/dns.md)
 - [More Linux Commands](DevOps/More%20Linux%20Commands/more_linux_commands.md)
@@ -17,7 +17,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Python Introduction](DevOps/Python%20Introduction/python_introduction.md)
 - [Python PIP](DevOps/Python%20PIP/python_pip.md)
 
-## [Linux](Linux/linux.md)
+## [[DONE] Linux](Linux/linux.md)
 
 - [IPTABLES](Linux/IPTABLES/iptables.md)
 - [Working With The Shell](Linux/Working%20With%20The%20Shell/working_with_the_shell.md)
@@ -42,7 +42,7 @@ In this repository I will be solving DevOps related labs for better understandin
 
 ## Docker
 
-- Docker Basic Commands
+- [Docker Basic Commands](Docker/Docker%20Basic%20Commands//docker_basic_commands.md)
 - Docker Run
 - Docker Environment Variables
 - Docker Images
