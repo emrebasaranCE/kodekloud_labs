@@ -58,7 +58,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Pods](Kubernetes/Pods/pods.md)
 - [Replica Sets](Kubernetes/Replica%20Sets/replica_sets.md)
 - [Deployments](Kubernetes/Deployments/deployments.md)
-- Rolling Updates And Rollbacks
+- [Rolling Updates And Rollbacks](Kubernetes/Rolling%20Updates%20And%20Rollbacks/rolling_updates_and_rollbacks.md)
 - Services
 - YAML 
 
