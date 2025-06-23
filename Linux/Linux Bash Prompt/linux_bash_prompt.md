@@ -17,7 +17,10 @@ Understanding linux services.
 ### Exercise 1/8
 ![alt text](image.png)
 ```bash
-/bin/bash
+# https://askubuntu.com/questions/87853/what-is-default-shell-for-terminal
+
+echo $SHELL
+# this is the output: "/bin/bash"
 ```
 ### Exercise 2/8
 ![alt text](image-1.png)
