@@ -40,7 +40,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [LVM](Linux/LVM/lvm.md)
 - [Final Troubleshooting Scenario](Linux/Final%20Troubleshooting%20Scenario/final_throubleshooting_scenario.md)
 
-## Docker
+## [[DONE] Docker](Docker/docker.md)
 
 - [Docker Basic Commands](Docker/Docker%20Basic%20Commands//docker_basic_commands.md)
 - [Docker Run](Docker/Docker%20Run/docker_run.md)
@@ -50,7 +50,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Docker Compose](Docker/Docker%20Compose/docker_compose.md)
 - [Docker Storage](Docker/Docker%20Storage/docker_storage.md)
 - [Docker Network](Docker/Docker%20Network/docker_network.md)
-- Docker Registry
+- [Docker Registry](Docker/Docker%20Registry/docker_registry.md)
 
 ## Kubernetes
 
