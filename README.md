@@ -2,7 +2,7 @@
 
 In this repository I will be solving DevOps related labs for better understanding of DevOps fundamentals.
 
-## [[DONE] DevOps](DevOps/devops.md)
+[[DONE] DevOps](DevOps/devops.md)
 
 - [Working Your Way Through The CLI](/DevOps/Dns/dns.md)
 - [More Linux Commands](DevOps/More%20Linux%20Commands/more_linux_commands.md)
@@ -16,8 +16,8 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Node JS NPM](DevOps/Java%20JS%20NPM/java_js_npm.md)
 - [Python Introduction](DevOps/Python%20Introduction/python_introduction.md)
 - [Python PIP](DevOps/Python%20PIP/python_pip.md)
-
-## [[DONE] Linux](Linux/linux.md)
+    
+[[DONE] Linux](Linux/linux.md)
 
 - [IPTABLES](Linux/IPTABLES/iptables.md)
 - [Working With The Shell](Linux/Working%20With%20The%20Shell/working_with_the_shell.md)
@@ -40,7 +40,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [LVM](Linux/LVM/lvm.md)
 - [Final Troubleshooting Scenario](Linux/Final%20Troubleshooting%20Scenario/final_throubleshooting_scenario.md)
 
-## [[DONE] Docker](Docker/docker.md)
+[[DONE] Docker](Docker/docker.md)
 
 - [Docker Basic Commands](Docker/Docker%20Basic%20Commands//docker_basic_commands.md)
 - [Docker Run](Docker/Docker%20Run/docker_run.md)
@@ -52,7 +52,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Docker Network](Docker/Docker%20Network/docker_network.md)
 - [Docker Registry](Docker/Docker%20Registry/docker_registry.md)
 
-## Kubernetes
+[Kubernetes](Kubernetes/kubernetes.md)
 
 - [Familiarize Environment](Kubernetes/Familiarize%20Environment/familiarize_environment.md)
 - [Pods](Kubernetes/Pods/pods.md)
@@ -62,7 +62,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - Services
 - YAML 
 
-## Git 
+Git 
 
 - Git Install
 - Git Initialize Repository
@@ -80,7 +80,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - Git Resetting Reverting
 - Git Stashing
 
-## Terraform
+Terraform
 
 - Terraform Hcl
 - Terraform Provider
@@ -109,8 +109,20 @@ In this repository I will be solving DevOps related labs for better understandin
 - Terraform Functions Conditionals
 - Terraform Workspaces
 
-## Ansible
+Ansible
 
-## Jenkins
+- YAML
+- Inventory
+- Playbooks
+- Modules
+- Variables
+- Conditionals
+- Loops
 
-## Python
+Jenkins
+
+- Get Familiar With The Application
+- Install Jenkins On A VM
+- Jenkins CLI
+- Backup And Restore Jenkins
+- Building A CD Pipeline
