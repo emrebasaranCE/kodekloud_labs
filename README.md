@@ -49,7 +49,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Docker CMD vs Entrypoint](Docker/Docker%20CMD%20vs%20Entrypoint/docker_cmd_vs_entrypoint.md)
 - [Docker Compose](Docker/Docker%20Compose/docker_compose.md)
 - [Docker Storage](Docker/Docker%20Storage/docker_storage.md)
-- Docker Network
+- [Docker Network](Docker/Docker%20Network/docker_network.md)
 - Docker Registry
 
 ## Kubernetes
