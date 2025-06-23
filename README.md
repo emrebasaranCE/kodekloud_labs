@@ -55,7 +55,7 @@ In this repository I will be solving DevOps related labs for better understandin
 ## Kubernetes
 
 - [Familiarize Environment](Kubernetes/Familiarize%20Environment/familiarize_environment.md)
-- [Pods]
+- [Pods](Kubernetes/Pods/pods.md)
 - Replica Sets
 - Deployments
 - Rolling Updates And Rollbacks
