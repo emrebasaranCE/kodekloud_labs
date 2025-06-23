@@ -48,7 +48,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Docker Images](Docker/Docker%20Images/docker_images.md)
 - [Docker CMD vs Entrypoint](Docker/Docker%20CMD%20vs%20Entrypoint/docker_cmd_vs_entrypoint.md)
 - [Docker Compose](Docker/Docker%20Compose/docker_compose.md)
-- Docker Storage
+- [Docker Storage](Docker/Docker%20Storage/docker_storage.md)
 - Docker Network
 - Docker Registry
 
