@@ -60,7 +60,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Deployments](Kubernetes/Deployments/deployments.md)
 - [Rolling Updates And Rollbacks](Kubernetes/Rolling%20Updates%20And%20Rollbacks/rolling_updates_and_rollbacks.md)
 - [Services](Kubernetes/Services/services.md)
-- YAML 
+- [YAML](Kubernetes/YAML/yaml.md) 
 
 Git 
 
