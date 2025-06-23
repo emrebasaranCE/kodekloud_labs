@@ -55,8 +55,8 @@ printenv
 ```
 ### Exercise 4/8
 ![alt text](image-3.png)
-```bash
-
+```
+OK
 ```
 ### Exercise 5/8
 ![alt text](image-4.png)
