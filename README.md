@@ -123,6 +123,6 @@ Jenkins
 
 - [Get Familiar With The Application](Jenkins/Get%20Familiar%20With%20The%20Application/get_familiar_with_the_application.md)
 - [Install Jenkins On A VM](Jenkins/Install%20Jenkins%20On%20A%20VM/install_jenkins_on_a_vm.md)
-- [Jenkins CLI]
+- [Jenkins CLI](Jenkins/Jenkins%20CLI/jenkins_cli.md)
 - Backup And Restore Jenkins
 - Building A CD Pipeline
