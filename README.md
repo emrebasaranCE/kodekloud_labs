@@ -52,7 +52,7 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Docker Network](Docker/Docker%20Network/docker_network.md)
 - [Docker Registry](Docker/Docker%20Registry/docker_registry.md)
 
-[Kubernetes](Kubernetes/kubernetes.md)
+[[DONE] Kubernetes](Kubernetes/kubernetes.md)
 
 - [Familiarize Environment](Kubernetes/Familiarize%20Environment/familiarize_environment.md)
 - [Pods](Kubernetes/Pods/pods.md)
@@ -119,7 +119,7 @@ Ansible
 - Conditionals
 - Loops
 
-[Jenkins](Jenkins/jenkins.md)
+[[DONE] Jenkins](Jenkins/jenkins.md)
 
 - [Get Familiar With The Application](Jenkins/Get%20Familiar%20With%20The%20Application/get_familiar_with_the_application.md)
 - [Install Jenkins On A VM](Jenkins/Install%20Jenkins%20On%20A%20VM/install_jenkins_on_a_vm.md)
