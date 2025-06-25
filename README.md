@@ -112,7 +112,7 @@ Terraform
 Ansible
 
 - [YAML](Ansible/YAML/yaml.md)
-- Inventory
+- [Inventory](Ansible/Inventory/inventory.md)
 - Playbooks
 - Modules
 - Variables
