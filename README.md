@@ -115,7 +115,7 @@ Terraform
 - [Inventory](Ansible/Inventory/inventory.md)
 - [Playbooks](Ansible/Playbooks/playbooks.md)
 - [Modules](Ansible/Modules/modules.md)
-- Variables
+- [Variables](Ansible/Variables/variables.md)
 - Conditionals
 - Loops
 
