@@ -116,7 +116,7 @@ Terraform
 - [Playbooks](Ansible/Playbooks/playbooks.md)
 - [Modules](Ansible/Modules/modules.md)
 - [Variables](Ansible/Variables/variables.md)
-- Conditionals
+- [Conditionals](Ansible/Conditionals/conditionals.md)
 - Loops
 
 [[DONE] Jenkins](Jenkins/jenkins.md)
