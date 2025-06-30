@@ -82,7 +82,7 @@ Git
 
 [Terraform](Terraform/terraform.md)
 
-- Terraform Hcl
+- [Terraform Hcl](Terraform/Terraform%20Hcl/terraform_hcl.md)
 - Terraform Provider
 - Terraform Multiple Provider
 - Terraform Variables
