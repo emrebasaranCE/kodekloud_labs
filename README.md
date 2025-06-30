@@ -80,7 +80,7 @@ Git
 - Git Resetting Reverting
 - Git Stashing
 
-Terraform
+[Terraform](Terraform/terraform.md)
 
 - Terraform Hcl
 - Terraform Provider
@@ -109,7 +109,7 @@ Terraform
 - Terraform Functions Conditionals
 - Terraform Workspaces
 
-[Ansible](Ansible/ansible.md)
+[[DONE] Ansible](Ansible/ansible.md)
 
 - [YAML](Ansible/YAML/yaml.md)
 - [Inventory](Ansible/Inventory/inventory.md)
