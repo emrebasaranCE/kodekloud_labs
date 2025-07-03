@@ -85,7 +85,7 @@ Git
 - [Terraform Hcl](Terraform/Terraform%20Hcl/terraform_hcl.md)
 - [Terraform Provider](Terraform/Terraform%20Provider/terraform_provider.md)
 - [Terraform Multiple Provider](Terraform/Terraform%20Multiple%20Provider/terraform_multiple_provider.md)
-- Terraform Variables
+- [Terraform Variables](Terraform/Terraform%20Variables/terraform_variables.md)
 - Terraform Variables 2
 - Terraform Resource Attributes
 - Terraform Resource Deps
