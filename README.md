@@ -86,7 +86,7 @@ Git
 - [Terraform Provider](Terraform/Terraform%20Provider/terraform_provider.md)
 - [Terraform Multiple Provider](Terraform/Terraform%20Multiple%20Provider/terraform_multiple_provider.md)
 - [Terraform Variables](Terraform/Terraform%20Variables/terraform_variables.md)
-- Terraform Variables 2
+- [Terraform Variables Advanced](Terraform/Terraform%20Variables%20Advanced/terraform_variables_advanced.md)
 - Terraform Resource Attributes
 - Terraform Resource Deps
 - Terraform Output Variables
