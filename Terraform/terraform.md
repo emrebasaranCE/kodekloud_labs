@@ -5,14 +5,14 @@ This section is dedicated to mastering **Terraform**, an open-source Infrastruct
 ## 📚 Topics Covered
 
 ### 🔤 Language and Basics
-- [Terraform HCL](Terraform%20Hcl/terraform_hcl.md)  
+- [**Terraform HCL**](Terraform%20Hcl/terraform_hcl.md)  
   Learn the basics of HashiCorp Configuration Language used in Terraform.
 
 ### 🔌 Providers & Resources
-- **Terraform Provider**  
+- [**Terraform Provider**](Terraform%20Provider/terraform_provider.md)  
   Understand how providers abstract cloud APIs.
 
-- **Terraform Multiple Provider**  
+- [**Terraform Multiple Provider**](Terraform%20Multiple%20Provider/terraform_multiple_provider.md) 
   Configure and use multiple providers in a single configuration.
 
 - **Terraform Resource Attributes**  
@@ -22,10 +22,10 @@ This section is dedicated to mastering **Terraform**, an open-source Infrastruct
   Manage dependencies and control resource execution order.
 
 ### 🧮 Variables & Outputs
-- **Terraform Variables**  
+- [**Terraform Variables**](Terraform%20Variables/terraform_variables.md)  
   Use variables to generalize and reuse configurations.
 
-- **Terraform Variables 2**  
+- [**Terraform Variables Advanced**](Terraform%20Variables%20Advanced/terraform_variables_advanced.md)  
   Advanced variable structures (e.g., maps, lists, objects).
 
 - **Terraform Output Variables**  
