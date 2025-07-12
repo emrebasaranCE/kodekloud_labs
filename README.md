@@ -23,6 +23,9 @@ In this repository I will be solving DevOps related labs for better understandin
 - [Working With The Shell](Linux/Working%20With%20The%20Shell/working_with_the_shell.md)
 - [Linux Bash Prompt](Linux/Linux%20Bash%20Prompt/linux_bash_prompt.md)
 - [Linux Kernel](Linux/Linux%20Kernel/linux_kernel.md)
+- [Working With The Shell II](Linux/Working%20With%20The%20Shell%20II/working_with_the_shell_ii.md)
+- [VI Editor](Linux/VI%20Editor/vi_editor.md)
+- [DNS](Linux/DNS/dns.md)
 - [Linux Kernel Modules Boot And Filetypes](Linux/Linux%20Kernel%20Modules%20Boot%20And%20Filetypes/linux_kernel_modules_boot_and_filetypes.md)
 - [YUM And RPM](Linux/YUM%20And%20RPM/yum_and_rpm.md)
 - [DPKG And APT](Linux/DPKG%20And%20APT/dpkg_and_apt.md)
@@ -87,7 +90,7 @@ Git
 - [Terraform Multiple Provider](Terraform/Terraform%20Multiple%20Provider/terraform_multiple_provider.md)
 - [Terraform Variables](Terraform/Terraform%20Variables/terraform_variables.md)
 - [Terraform Variables Advanced](Terraform/Terraform%20Variables%20Advanced/terraform_variables_advanced.md)
-- Terraform Resource Attributes
+- [Terraform Resource Attributes](Terraform/Terraform%20Resource%20Attributes/terraform_resource_attributes.md)
 - Terraform Resource Deps
 - Terraform Output Variables
 - Terraform State
