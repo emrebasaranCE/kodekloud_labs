@@ -93,7 +93,7 @@ Git
 - [Terraform Resource Attributes](Terraform/Terraform%20Resource%20Attributes/terraform_resource_attributes.md)
 - [Terraform Resource Dependencies](Terraform/Terraform%20Resource%20Dependencies/terraform_resource_dependencies.md`)
 - [Terraform Output Variables](Terraform/Terraform%20Output%20Variables/terraform_output_variables.md)
-- Terraform State
+- [Terraform State](Terraform/Terraform%20State/terraform_state.md)
 - Terraform Commands
 - Terraform Lifecyclle
 - Terraform Datasources
