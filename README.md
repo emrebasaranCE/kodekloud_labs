@@ -95,7 +95,7 @@ Git
 - [Terraform Output Variables](Terraform/Terraform%20Output%20Variables/terraform_output_variables.md)
 - [Terraform State](Terraform/Terraform%20State/terraform_state.md)
 - [Terraform Commands](Terraform/Terraform%20Commands/terraform_commands.md)
-- Terraform Lifecyclle
+- [Terraform Lifecycle](Terraform/Terraform%20Lifecycle/terraform_lifecycle..md)
 - Terraform Datasources
 - Terraform Count For Each
 - Terraform Version 
