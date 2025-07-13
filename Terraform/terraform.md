@@ -15,7 +15,7 @@ This section is dedicated to mastering **Terraform**, an open-source Infrastruct
 - [**Terraform Multiple Provider**](Terraform%20Multiple%20Provider/terraform_multiple_provider.md) 
   Configure and use multiple providers in a single configuration.
 
-- **Terraform Resource Attributes**  
+- [**Terraform Resource Attributes**](Terraform%20Resource%20Attributes/terraform_resource_attributes.md) 
   Learn how to define and use resource attributes effectively.
 
 - **Terraform Resource Deps**  
