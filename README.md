@@ -91,7 +91,7 @@ Git
 - [Terraform Variables](Terraform/Terraform%20Variables/terraform_variables.md)
 - [Terraform Variables Advanced](Terraform/Terraform%20Variables%20Advanced/terraform_variables_advanced.md)
 - [Terraform Resource Attributes](Terraform/Terraform%20Resource%20Attributes/terraform_resource_attributes.md)
-- [Terraform Resource Dependencies]
+- [Terraform Resource Dependencies](Terraform/Terraform%20Resource%20Dependencies/terraform_resource_dependencies.md`)
 - Terraform Output Variables
 - Terraform State
 - Terraform Commands
