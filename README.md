@@ -94,7 +94,7 @@ Git
 - [Terraform Resource Dependencies](Terraform/Terraform%20Resource%20Dependencies/terraform_resource_dependencies.md`)
 - [Terraform Output Variables](Terraform/Terraform%20Output%20Variables/terraform_output_variables.md)
 - [Terraform State](Terraform/Terraform%20State/terraform_state.md)
-- Terraform Commands
+- [Terraform Commands](Terraform/Terraform%20Commands/terraform_commands.md)
 - Terraform Lifecyclle
 - Terraform Datasources
 - Terraform Count For Each
