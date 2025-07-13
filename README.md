@@ -96,7 +96,7 @@ Git
 - [Terraform State](Terraform/Terraform%20State/terraform_state.md)
 - [Terraform Commands](Terraform/Terraform%20Commands/terraform_commands.md)
 - [Terraform Lifecycle](Terraform/Terraform%20Lifecycle/terraform_lifecycle..md)
-- Terraform Datasources
+- [Terraform Datasources](Terraform/Terraform%20Datasources/terraform_datasources.md)
 - Terraform Count For Each
 - Terraform Version 
 - Terraform Aws Cli Iam
