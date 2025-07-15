@@ -99,8 +99,8 @@ Git
 - [Terraform Datasources](Terraform/Terraform%20Datasources/terraform_datasources.md)
 - [Terraform Count & For Each](Terraform/Terraform%20Count%20And%20For%20Each/terraform_count_and_for_each.md)
 - [Terraform Version](Terraform/Terraform%20Version/terraform_version.md)
-- Terraform Aws Cli Iam
-- Terraform Iam
+- [Terraform AWS CLI IAM](Terraform/Terraform%20AWS%20CLI%20IAM/terraform_aws_cli_iam.md)
+- [Terraform IAM](Terraform/Terraform%20IAM/terraform_iam.md)
 - Terraform S3
 - Terraform Dynamodb
 - Terraform Remotestate
