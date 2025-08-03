@@ -101,7 +101,7 @@ Git
 - [Terraform Version](Terraform/Terraform%20Version/terraform_version.md)
 - [Terraform AWS CLI IAM](Terraform/Terraform%20AWS%20CLI%20IAM/terraform_aws_cli_iam.md)
 - [Terraform IAM](Terraform/Terraform%20IAM/terraform_iam.md)
-- Terraform S3
+- [Terraform S3](Terraform/Terraform%20S3/terraform_s3.md)
 - Terraform Dynamodb
 - Terraform Remotestate
 - Terraform State Commands
